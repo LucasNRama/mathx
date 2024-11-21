@@ -44,20 +44,17 @@
                     </div>
 
                     <div class="form-check mb-3">
-                        <input class="form-check-input" type="checkbox" id="check_subtraction" name="check_subtraction"
-                            checked>
+                        <input class="form-check-input" type="checkbox" id="check_subtraction" name="check_subtraction" checked>
                         <label class="form-check-label" for="check_subtraction">Subtração</label>
                     </div>
 
                     <div class="form-check mb-3">
-                        <input class="form-check-input" type="checkbox" id="check_multiplication"
-                            name="check_multiplication" checked>
+                        <input class="form-check-input" type="checkbox" id="check_multiplication" name="check_multiplication" checked>
                         <label class="form-check-label" for="check_multiplication">Multiplicação</label>
                     </div>
 
                     <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="check_division" name="check_division"
-                            checked>
+                        <input class="form-check-input" type="checkbox" id="check_division" name="check_division" checked>
                         <label class="form-check-label" for="check_division">Divisão</label>
                     </div>
 
